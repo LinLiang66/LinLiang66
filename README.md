@@ -14,5 +14,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinLiang66)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinLiang66&repo=FeishuCozeRobot](https://github.com/LinLiang66/FeishuCozeRobot)
+[![Readme Card](https://FeishuCozeRobot.vercel.app/api/pin/?username=LinLiang66&repo=FeishuCozeRobot]
 
