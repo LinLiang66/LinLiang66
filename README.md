@@ -10,8 +10,8 @@
 
 我的QQ， [927919732](http://wpa.qq.com/msgrd?v=3&uin=927919732&site=qq&menu=yes)
 
-![LinLiang GitHub stats](https://github-readme-stats.vercel.app/api?username=LinLiang66&count_private=true)（https://www.xiaorouy.cn）
+[![LinLiang GitHub stats](https://github-readme-stats.vercel.app/api?username=LinLiang66&count_private=true)](https://www.xiaorouy.cn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinLiang66)（https://www.xiaorouy.cn）
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinLiang66)](https://www.xiaorouy.cn)
 
 
