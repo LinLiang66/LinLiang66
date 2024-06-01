@@ -10,8 +10,8 @@
 
 我的即时通信软件[927919732](http://wpa.qq.com/msgrd?v=3&uin=927919732&site=qq&menu=yes)
 
-![GitHub统计](https://github-readme-stats.vercel.app/api?用户名=LinLiang66&count_private=true)(https://xiaorouy.cn)
+![GitHub统计](https://github-readme-stats.vercel.app/api?用户名=LinLiang66&count_private=true)
 
-![顶级语言](https://github-readme-stats.vercel.app/api/top-langs/?用户名=LinLiang66)(https://xiaorouy.cn)
+![顶级语言](https://github-readme-stats.vercel.app/api/top-langs/?用户名=LinLiang66)
 
 
