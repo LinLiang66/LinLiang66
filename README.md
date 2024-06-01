@@ -2,7 +2,7 @@
 
 ### 摔倒的红烧肉
 
-我的个人主页，[智能小肉的主页](http://www.xiaorouy.cn)
+我的个人主页，[智能小肉的主页](https://www.xiaorouy.cn)
 
 我的B站主页，[摔倒的红烧肉哇的B站主页](https://space.bilibili.com/584706502)
 
