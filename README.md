@@ -1,4 +1,5 @@
-# 摔倒的红烧肉
+<h1 align="center">Hi 👋, I'm LinLiang</h1>
+<h3 align="center">A handsome young man who loves research</h3>
 
 我的个人主页,[智能小肉的主页](https://www.xiaorouy.cn)
 
@@ -7,13 +8,6 @@
 我的CSDN主页,[摔倒的红烧肉850的CSDN主页](https://blog.csdn.net/weixin_56017333)
 
 我的QQ， [927919732](http://wpa.qq.com/msgrd?v=3&uin=927919732&site=qq&menu=yes)
-
-[![LinLiang GitHub stats](https://github-readme-stats.vercel.app/api?username=LinLiang66&count_private=true)](https://www.xiaorouy.cn)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinLiang66)](https://www.xiaorouy.cn)
-
-<h1 align="center">Hi 👋, I'm LinLiang</h1>
-<h3 align="center">A handsome young man who loves research</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LinLiang66&label=Profile%20views&color=0e75b6&style=flat" alt="LinLiang66" /> </p>
 
