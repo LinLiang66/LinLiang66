@@ -8,7 +8,7 @@
         alt="LinLiang66" src="https://github-profile-trophy.vercel.app/?username=LinLiang66"/></a></p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 927919732@qq.com</h3>
 <p align="left">
 </p>
 
