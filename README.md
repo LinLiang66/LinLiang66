@@ -29,7 +29,11 @@
         alt="redis"
         height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/> </a> <a href="https://vuejs.org/" rel="noreferrer" target="_blank">
     <img alt="vuejs"
-         height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/> </a></p>
+         height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/> </a>
+      <a href="https://www.python.org/" rel="noreferrer" target="_blank">
+        <img alt="python"
+             height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40"/> </a>
+</p>
 
 <p><img align="left"
         alt="LinLiang66"
